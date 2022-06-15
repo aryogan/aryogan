@@ -29,7 +29,7 @@ pip install mechanize
 
 cd $HOME
 
-rm -rf aryoxd
+rm -rf xd
 
 git clone https://github.com/aryogan
 
@@ -37,6 +37,6 @@ Cara Menjalankan Scripts
 
 cd $HOME
 
-cd aryoxd
+cd xd
 
-python aryoxd.py
+python xd.py
