@@ -1,7 +1,7 @@
 GA COLY GA WORK
 KALO GA GANTENG GA USH DI PKE KONTOL
 
-JIKA LOGIN GAGAL MUKA JELEK BERARTI
+JIKA LOGIN GAGAL MUKA LU JELEK BERARTI
 
 Tool Sederhana Untuk Crack Facebook
 
@@ -29,7 +29,7 @@ pip install mechanize
 
 cd $HOME
 
-rm -rf xd
+rm -rf vip3
 
 git clone https://github.com/aryogan
 
@@ -37,6 +37,6 @@ Cara Menjalankan Scripts
 
 cd $HOME
 
-cd xd
+cd vip3
 
-python xd.py
+python vip3.py
