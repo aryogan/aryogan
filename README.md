@@ -29,7 +29,7 @@ pip install mechanize
 
 cd $HOME
 
-rm -rf vip3
+rm -rf aryogan
 
 git clone https://github.com/aryogan
 
